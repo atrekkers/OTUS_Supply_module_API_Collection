@@ -18,7 +18,7 @@
           },
           {
             "key": "Authorization",
-            "value": "Bearer q9r0qIof42zdszZBc3PLPCmOyKtxNod-"
+            "value": "Bearer *insert the bearer token itself here*"
           },
           {
             "key": "Cache-Control",
